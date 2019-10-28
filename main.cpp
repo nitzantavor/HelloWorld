@@ -45,7 +45,7 @@ int main(){
 
 void setup(void){
 	// put your setup code here, to run once:
-	printf("%s \n", "Hello World1");
+	printf("%s \n", "Hello World2");
 }
 
 void loop(void){
